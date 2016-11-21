@@ -1,6 +1,7 @@
 GIT
   remote: git://github.com/Liceth/rails.git
-  revision: c3005e0a31eaef3b169ff4460e22dd263a8006cf
+  revision: 60a06f2b3401c07ad1efb0fd1440e57cc4153158
+  branch: demo
   specs:
     actioncable (5.1.0.alpha)
       actionpack (= 5.1.0.alpha)
